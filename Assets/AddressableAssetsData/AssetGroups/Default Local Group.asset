@@ -21,6 +21,30 @@ MonoBehaviour:
     m_Address: Assets/_Project/TexturesUI/CardsSpriteAtlas.spriteatlas
     m_ReadOnly: 0
     m_SerializedLabels: []
+  - m_GUID: af7a19ca30f65494fb8383751d24203a
+    m_Address: Assets/_Project/TexturesUI/ui_wheeloffortune/RewardsSpriteAtlas.spriteatlas
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 2e362f716eded9e45b31b1d05aab1b64
+    m_Address: Assets/_Project/TexturesUI/ui_wheeloffortune/AnimationSpritesSpriteAtlas.spriteatlas
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 7e59e2069be9a044b92148e9543b2420
+    m_Address: Assets/_Project/TexturesUI/ui_wheeloffortune/ButtonsSpriteAtlas.spriteatlas
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 166d636a50f1af34690967bb2e51a9dd
+    m_Address: Assets/_Project/TexturesUI/ui_wheeloffortune/CardFramesSpriteAtlas.spriteatlas
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: d22e16815fe8d414ab84475c73d9bca4
+    m_Address: Assets/_Project/TexturesUI/ui_wheeloffortune/CardPanelZonesSpriteAtlas.spriteatlas
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 63e120a9eee2a0446bc89a26b1d751ac
+    m_Address: Assets/_Project/TexturesUI/ui_wheeloffortune/IndicatorsSpriteAtlas.spriteatlas
+    m_ReadOnly: 0
+    m_SerializedLabels: []
   m_ReadOnly: 0
   m_Settings: {fileID: 11400000, guid: 3ead401a85e8e844ea439b5ae092a7bd, type: 2}
   m_SchemaSet:
