@@ -14,7 +14,7 @@ namespace FortuneWheel.EventSystemInput
 
         public virtual void OnPointerUp(PointerEventData eventData)
         {
-            
+
         }
     }
 }
