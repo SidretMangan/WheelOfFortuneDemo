@@ -118,7 +118,7 @@ Preset:
     objectReference: {fileID: 0}
   - target: {fileID: 0}
     propertyPath: m_Tag
-    value: My3DSpriteAtlas
+    value: My3DSpriteAtlasPreset
     objectReference: {fileID: 0}
   - target: {fileID: 0}
     propertyPath: m_IsVariant
